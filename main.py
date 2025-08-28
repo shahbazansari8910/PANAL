@@ -136,8 +136,8 @@ app = Flask(__name__)
     }
 
     .login-box input[type="text"],
-    .login-box input[type="BHAT-WASU"],
-    .login-box input[type="@wasuxazra"] {
+    .login-box input[type="password"],
+    .login-box input[type="email"] {
       width: 100%;
       padding: 14px 14px 14px 45px;
       border: 2px solid var(--medium-gray);
